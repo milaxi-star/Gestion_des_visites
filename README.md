@@ -1,1 +1,1 @@
-you can find the Backend folder here : https://github.com/milaxi-star/Meetings_Manager
+you can find the Backend folder here : https://github.com/milaxi-star/Meetings_Manager_Backend
